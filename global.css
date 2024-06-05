@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "osrs";
+  font-weight: normal;
+  src: url("RuneScape-Chat-07.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "osrs";
+  font-weight: bold;
+  src: url("RuneScape-Chat-Bold-07.woff2") format("woff2");
+}
+
+.leaflet-bottom.leaflet-right {
+  display: none;
+}
